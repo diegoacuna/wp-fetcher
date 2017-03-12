@@ -1,0 +1,31 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+.fetched-posts-container {
+
+}
+
+.fetched-post {
+  float: left;
+  width: 33%;
+  padding: 0 10px;
+}
+
+.fetched-posts-container .fetched-post h3 {
+  font-size: 1.2em;
+  margin-bottom: 0.7rem;
+}
+
+.fetched-post .post-img-container {
+  text-align: center;
+}
+
+.fetched-post img {
+  max-height: 202px;
+}
+
+.fetched-post p {
+  margin-top: 0.7rem;
+  font-size: 0.9em;
+}
